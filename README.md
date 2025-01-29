@@ -42,6 +42,6 @@ Smart vending machine prototype using AVR microcontroller with modern QR payment
    - Dispenses selected flavor
    - Shows "Thank You" message
 
-Developed as part of embedded systems internship
+Developed as part of embedded systems internship,
 Special thanks to Vamshi Sir for mentorship
 
