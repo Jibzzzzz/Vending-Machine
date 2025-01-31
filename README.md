@@ -10,7 +10,7 @@ This project showcases a smart vending machine prototype powered by an AVR micro
 - Payment verification with visual/audio feedback via LED, LCD, and buzzer.
 
 ### **Flavor Selection**
-- Users can choose between three flavors: **Sugarcane+Ginger, Sugarcane+Lime, and regular Sugarcane **.
+- Users can choose between three flavors: **Sugarcane+Ginger, Sugarcane+Lime, and regular Sugarcane**.
 - A simple three-button interface enables selection.
 - LCD menu displays the available flavors and guides the user through the selection process.
 
