@@ -21,9 +21,9 @@ This project showcases a smart vending machine prototype powered by an AVR micro
 
 ## 🔧 Hardware Components
 ### **Payment System:**
-- **ESP8266 WiFi Module** – Handles payment confirmation via cloud API.
-- **128x64 OLED Display** – Displays the dynamically generated QR code.
-- **Buzzer** – Provides audio feedback for successful or failed transactions.
+- **ESP32** – Handles payment confirmation via cloud API.
+- **Display** – Displays the dynamically generated QR code.
+- **LED** – Provides feedback for successful or failed transactions(green/red).
 
 ### **Core Components:**
 - **ATmega2560** – Main microcontroller unit handling all operations.
