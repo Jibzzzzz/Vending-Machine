@@ -1,4 +1,4 @@
-# AVR Vending Machine Project with QR Payment
+# Sugarcane Vending Machine 
 
 ## 📌 Overview
 This project showcases a smart vending machine prototype powered by an AVR microcontroller with modern QR-based payment integration. The system allows users to purchase flavored sugarcane juice using a contactless UPI payment method. Developed under the guidance of **Vamshi Sir**, this project aims to blend embedded systems with IoT-based payment solutions.
@@ -10,7 +10,7 @@ This project showcases a smart vending machine prototype powered by an AVR micro
 - Payment verification with visual/audio feedback via LED, LCD, and buzzer.
 
 ### **Flavor Selection**
-- Users can choose between three flavors: **Regular, Mango, and Ginger**.
+- Users can choose between three flavors: **Sugarcane+Ginger, Sugarcane+Lime, and regular Sugarcane **.
 - A simple three-button interface enables selection.
 - LCD menu displays the available flavors and guides the user through the selection process.
 
